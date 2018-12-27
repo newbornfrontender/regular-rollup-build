@@ -1,3 +1,4 @@
 /node_modules
 
-/public/*.{css,js}
+/public/*.css
+/public/*.js
