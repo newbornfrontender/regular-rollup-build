@@ -5,5 +5,11 @@
   "repository": "https://github.com/newbornfrontender/regular-rollup-build.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "prettier": "prettier --write .prettierrc *.{css,json,yml,md} **/*.js",
+    "rollup": "rollup -c",
+    "rollup:watch": "rollup -c -w",
+    "serve": "serve public"
+  }
 }
