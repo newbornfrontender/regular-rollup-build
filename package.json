@@ -1,0 +1,9 @@
+{
+  "name": "regular-rollup-build",
+  "version": "1.0.0",
+  "description": "Очередной билд на Rollup",
+  "repository": "https://github.com/newbornfrontender/regular-rollup-build.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
