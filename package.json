@@ -24,7 +24,7 @@
     "postcss-preset-env": "6.5.0",
     "postcss-syntax": "0.36.2",
     "prettier": "1.16.1",
-    "rollup": "0.68.2",
+    "rollup": "1.1.2",
     "rollup-plugin-node-resolve": "4.0.0",
     "rollup-pluginutils": "2.3.3",
     "serve": "10.1.1",
