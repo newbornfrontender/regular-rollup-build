@@ -28,6 +28,6 @@
     "rollup-plugin-node-resolve": "4.0.0",
     "rollup-pluginutils": "2.3.3",
     "serve": "10.1.1",
-    "terser": "3.13.1"
+    "terser": "3.14.1"
   }
 }
