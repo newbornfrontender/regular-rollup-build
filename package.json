@@ -13,8 +13,8 @@
     "serve": "serve public"
   },
   "devDependencies": {
-    "@babel/core": "7.3.3",
-    "@babel/preset-env": "7.3.1",
+    "@babel/core": "7.3.4",
+    "@babel/preset-env": "7.3.4",
     "cssnano": "4.1.10",
     "del": "3.0.0",
     "htmlnano": "0.2.3",
