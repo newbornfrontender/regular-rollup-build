@@ -17,7 +17,7 @@
     "@babel/preset-env": "7.4.4",
     "cssnano": "4.1.10",
     "del": "5.0.0",
-    "htmlnano": "0.2.4",
+    "htmlnano": "0.2.5",
     "postcss": "7.0.14",
     "postcss-html": "0.36.0",
     "postcss-load-config": "2.1.0",
