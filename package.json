@@ -23,7 +23,7 @@
     "postcss-load-config": "2.1.0",
     "postcss-preset-env": "6.7.0",
     "postcss-syntax": "0.36.2",
-    "prettier": "1.17.0",
+    "prettier": "1.19.1",
     "rollup": "1.26.0",
     "rollup-plugin-node-resolve": "4.0.1",
     "rollup-pluginutils": "2.5.0",
